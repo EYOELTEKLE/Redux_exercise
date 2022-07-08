@@ -8,3 +8,6 @@
 
 - Thunk MiddleWare
 
+## Author
+
+- Eyoel Tekle
